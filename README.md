@@ -3,6 +3,6 @@
 - 👨‍💻 Faço técnico em informática na Etec Albert Einstein.
 - 📚 Atualmente estou aprendendo HTML5, CSS3 e JavaScript.
 - 🤩 Apaixonado por conhecer e aprender mais.
-- 💻 Realiozando cursos na plataforma Alura.
+- 💻 Realizando cursos na plataforma Alura.
 
 
