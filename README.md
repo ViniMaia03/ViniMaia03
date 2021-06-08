@@ -6,5 +6,5 @@
 - 🤩 Apaixonado por conhecer e aprender mais.
 - 💻 Realizando cursos na plataforma Alura.
 
-![Snake animation](https://github.com/ViniMaia03)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
