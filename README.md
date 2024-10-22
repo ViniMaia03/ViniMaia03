@@ -1,9 +1,9 @@
 
 ### Olá!👋 Me chamo Vinícius Maia.
 
-- 👨‍💻 Faço técnico em informática na Etec Albert Einstein.
-- 📚 Atualmente, tenho conhecimento em HTML5, CSS3 e JavaScript.
-- 🤩 Apaixonado por conhecer e aprender mais.
+- 👨‍💻 Curso Análise e Desenvolvimento de Sistemas, na FIAP.
+- 📚 Apaixonado e fascinado pelo Front-End
+- 🤩 Aprendizado constante!
 
 <div align="center">
   <a href="https://github.com/ViniMaia03">
@@ -27,8 +27,3 @@
   <a href = "mailto:viniciusmsantos02@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusmaia03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  
- ##
-
-![Snake animation](https://github.com/ViniMaia03/ViniMaia03/blob/output/github-contribution-grid-snake.svg)
-
