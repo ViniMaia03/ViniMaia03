@@ -1,9 +1,10 @@
 
-### Olá!👋 Me chamo Vinícius Maia.
+### Olá!👋 Me chamo Vinícius Maia. Seja bem-vindo(a) ao meu GitHub!👨‍💻
+---
+## ⭐**Sobre Mim:**
+Eu sou o Vinícius, desenvolvedor entusiasta e apaixonado por tecnologia e aprendizado contínuo. Atualmente curso Análise e Desenvolvimento de Sistemas e aplico meus conhecimentos em projetos que unem a teoria, prática e propósito.
 
-- 👨‍💻 Curso Análise e Desenvolvimento de Sistemas, na FIAP.
-- 📚 Apaixonado e fascinado pelo Front-End
-- 🤩 Aprendizado constante!
+Estou em busca de experiência que me desafie a cada momento crescer tanto como profissional, quanto como pessoa. Se conecte comigo!
 
 <div align="center">
   <a href="https://github.com/ViniMaia03">
