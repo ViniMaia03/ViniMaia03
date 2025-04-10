@@ -1,5 +1,5 @@
 
-### Olá!👋 Me chamo Vinícius Maia. Seja bem-vindo(a) ao meu GitHub!👨‍💻
+# Olá!👋 Me chamo Vinícius Maia. Seja bem-vindo(a) ao meu GitHub!👨‍💻
 ---
 ## ⭐**Sobre Mim:**
 Eu sou o Vinícius, desenvolvedor entusiasta e apaixonado por tecnologia e aprendizado contínuo. Atualmente curso Análise e Desenvolvimento de Sistemas e aplico meus conhecimentos em projetos que unem a teoria, prática e propósito.
